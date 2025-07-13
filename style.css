@@ -199,24 +199,29 @@
 .shoes-bags{
     background: rgb(244, 244, 244);
     margin-top: 30px;
+    margin-bottom: 30px;
+    padding-bottom: 50px;
+    /* border: solid;
+ */
 }
 
 .shoes-container{
     align-items: center;
+    margin-bottom:50px; 
 }
 
 .shoes-container img{
     width: 336px;
     height: 202px;
 }
-.shoes-card-container{
-    
+.shoes-card-container{  
     text-align: center;
     background: white;
     width: 360px;
-    height: 532px;
+    /* height: 532px; */
     border-radius: 20px;
     padding: 24px 35px;
+    /* border: solid; */
     
 }
 
